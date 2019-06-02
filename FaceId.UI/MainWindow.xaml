@@ -6,7 +6,8 @@
         xmlns:local="clr-namespace:FaceId.UI"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
+    <Grid >
+        <Image x:Name="CameraFeed" Margin="20"/>
+
     </Grid>
 </Window>
